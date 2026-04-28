@@ -5,18 +5,22 @@ body {
 p {
   color: white;
   text-align: center;
+  font-family: 'Quicksand', sans-serif;
 }
 
 h1, h2 {
   color: white;
   text-align: center;
+  font-family: 'Quicksand', sans-serif;
 }
 
 footer {
   text-align: center;
   color: white;
+  font-family: 'Quicksand', sans-serif;
 }
 
 main {
   text-align: center;
+  font-family: 'Quicksand', sans-serif;
 }
